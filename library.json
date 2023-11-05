@@ -1,0 +1,9 @@
+{
+    "name": "TinyGPS",
+    "version": "1.0.0",
+    "description": "A very simple & lightweight library to get latitude and longitude from a UART GPS module",
+    "keywords": "gps",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+  }
